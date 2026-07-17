@@ -1,4 +1,3 @@
-```markdown
 # Intelligent Telecom Fraud Investigation System
 ### XGBoost + LangChain Multi-Agent AI
 
@@ -124,6 +123,5 @@ Python, XGBoost, scikit-learn, LangChain, Groq (Llama 3.1 8B Instant), pandas, j
   for model transparency.
 - Agents currently run sequentially; could be parallelized for latency.
 - No persistent database — reports/summaries are file-based for simplicity.
-```
 
-Say **"done"** — and honestly, at this point the project is complete and genuinely solid. Push it to GitHub whenever you're ready.
+

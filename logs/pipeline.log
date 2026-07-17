@@ -1,0 +1,15 @@
+2026-07-18 03:15:06,770 [INFO] New batch detected: call_batch_001.csv
+2026-07-18 03:15:06,779 [INFO] Schema valid for call_batch_001.csv
+2026-07-18 03:15:06,784 [INFO] Cleaned 30 rows from call_batch_001.csv
+2026-07-18 03:15:06,789 [INFO] Prediction complete for call_batch_001.csv
+2026-07-18 03:15:06,790 [INFO] 8 cases flagged for agent review (of 30 total)
+2026-07-18 03:15:07,995 [INFO] Report generated for CUST000231
+2026-07-18 03:15:08,909 [INFO] Report generated for CUST001911
+2026-07-18 03:15:09,839 [INFO] Report generated for CUST000977
+2026-07-18 03:15:10,758 [INFO] Report generated for CUST004023
+2026-07-18 03:15:11,782 [INFO] Report generated for CUST009246
+2026-07-18 03:15:13,803 [INFO] Report generated for CUST007910
+2026-07-18 03:15:25,092 [INFO] Report generated for CUST000850
+2026-07-18 03:15:34,314 [INFO] Report generated for CUST000898
+2026-07-18 03:15:34,324 [INFO] Summary updated -> data/reports/batch_summary.csv
+2026-07-18 03:15:34,325 [INFO] Moved call_batch_001.csv -> data/incoming_calls/processed/

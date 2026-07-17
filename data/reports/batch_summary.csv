@@ -1,0 +1,9 @@
+customer_id,fraud_probability,fraud_prediction,report_path,source_file,processed_at
+CUST000231,0.5485272407531738,1,data/reports/CUST000231_report.md,call_batch_001.csv,2026-07-18T03:15:07.995335
+CUST001911,0.44348764419555664,0,data/reports/CUST001911_report.md,call_batch_001.csv,2026-07-18T03:15:08.909130
+CUST000977,0.45424166321754456,0,data/reports/CUST000977_report.md,call_batch_001.csv,2026-07-18T03:15:09.839555
+CUST004023,0.47695353627204895,0,data/reports/CUST004023_report.md,call_batch_001.csv,2026-07-18T03:15:10.758329
+CUST009246,0.508931577205658,1,data/reports/CUST009246_report.md,call_batch_001.csv,2026-07-18T03:15:11.782111
+CUST007910,0.44949737191200256,0,data/reports/CUST007910_report.md,call_batch_001.csv,2026-07-18T03:15:13.803126
+CUST000850,0.49012449383735657,0,data/reports/CUST000850_report.md,call_batch_001.csv,2026-07-18T03:15:25.092340
+CUST000898,0.701871395111084,1,data/reports/CUST000898_report.md,call_batch_001.csv,2026-07-18T03:15:34.314463
